@@ -1,2 +1,2 @@
-# Curs_Python
+# Curso_Python
 Curso de Python Inicio
